@@ -5,7 +5,7 @@
 }
 
 #assignGlasses {
-  background-image: url("../../../assign-react-state/public/img/background.jpg");
+  background-image: url("/public/img/background.jpg");
   height: 700px;
   background-position: center;
   background-size: cover;
@@ -24,7 +24,7 @@
 
 #assignGlasses .cardLeft,
 #assignGlasses .cardRight {
-  background-image: url("../../../assign-react-state/public/img/model.jpg");
+  background-image: url("/public/img/model.jpg");
   width: 300px;
   height: 500px;
   background-position: center;
